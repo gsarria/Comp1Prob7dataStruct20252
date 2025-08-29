@@ -1,2 +1,5 @@
-# Comp1Prob7dataStruct20252
-Problema 7 de la Competencia 1 del curso Estructuras de Datos Grupo B 2025-2
+# Problema 7: Notas de Estudiantes
+
+Encuentra el alumno con mejor promedio.
+
+Sigue las instrucciones del Problema 7 del Problemset.
